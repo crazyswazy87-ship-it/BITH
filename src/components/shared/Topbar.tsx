@@ -1,5 +1,5 @@
 import logoo from "../../../public/assets/bitth.png"
-import sign from "../../../public/assetS/cart.png"
+import sign from "../../../public/assets/cart.png"
 
 
 const Topbar = () => {
